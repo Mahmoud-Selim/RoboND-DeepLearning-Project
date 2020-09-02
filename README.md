@@ -1,11 +1,10 @@
-[//]: # (Image References)
-
-[image1]: ./docs/misc/Architecture.PNG
-
 # Follow Me Deep Learning Project 
 
 In this project, A deep neural network was trained to identify and track a target in simulation. So-called “follow me” applications like this are key to many fields of robotics and could be extended to scenarios like advanced cruise control in autonomous vehicles or human-robot collaboration in industry.
 ---
+[//]: # (Image References)
+
+[image0]: ./docs/misc/Architecture.PNG
 
 ## NEURAL NETWORK ARCHITECTURE
 
