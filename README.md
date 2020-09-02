@@ -1,6 +1,7 @@
-# Follow Me Deep Learning Project 
+# Follow Me Deep Learning Project
 
 In this project, A deep neural network was trained to identify and track a target in simulation. So-called “follow me” applications like this are key to many fields of robotics and could be extended to scenarios like advanced cruise control in autonomous vehicles or human-robot collaboration in industry.
+
 ---
 [//]: # (Image References)
 
